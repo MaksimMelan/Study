@@ -2,9 +2,9 @@
 // пишем программу покторая поздравит нас столько раз сколько нам лет
 int age; // My it's old.
 age = Convert.ToInt32(Console.ReadLine());
-while(age > 0)
+
+while(age-- > 0) // the decrement can be set in the condition
 {
     Console.WriteLine("Привет");
-    age--; 
 }
 Console.ReadKey();
