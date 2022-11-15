@@ -5,10 +5,11 @@ age = Convert.ToInt32(Console.ReadLine());
 
 while(age-- > 0) // the decrement can be set in the condition
 {
-    Console.WriteLine("Привет");
+    
     if (age == 5)
     {
-        continue;// it doesn't work
+        continue;// right
     }
+    Console.WriteLine("Привет");
 }
 Console.ReadKey();
