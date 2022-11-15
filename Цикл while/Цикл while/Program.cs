@@ -10,6 +10,6 @@ while(age-- > 0) // the decrement can be set in the condition
     {
         continue;// right
     }
-    Console.WriteLine("Привет");
+    Console.WriteLine("Посздарвляю с " + age); // age deduction
 }
 Console.ReadKey();
