@@ -1,0 +1,15 @@
+C:\repository\Study\cucly_for\cucly_for\bin\Debug\net6.0\cucly_for.exe
+C:\repository\Study\cucly_for\cucly_for\bin\Debug\net6.0\cucly_for.deps.json
+C:\repository\Study\cucly_for\cucly_for\bin\Debug\net6.0\cucly_for.runtimeconfig.json
+C:\repository\Study\cucly_for\cucly_for\bin\Debug\net6.0\cucly_for.dll
+C:\repository\Study\cucly_for\cucly_for\bin\Debug\net6.0\cucly_for.pdb
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\cucly_for.csproj.AssemblyReference.cache
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\cucly_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\cucly_for.AssemblyInfoInputs.cache
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\cucly_for.AssemblyInfo.cs
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\cucly_for.csproj.CoreCompileInputs.cache
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\cucly_for.dll
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\refint\cucly_for.dll
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\cucly_for.pdb
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\cucly_for.genruntimeconfig.cache
+C:\repository\Study\cucly_for\cucly_for\obj\Debug\net6.0\ref\cucly_for.dll
