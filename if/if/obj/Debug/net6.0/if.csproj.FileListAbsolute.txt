@@ -1,0 +1,15 @@
+C:\repository\Study\if\if\bin\Debug\net6.0\if.exe
+C:\repository\Study\if\if\bin\Debug\net6.0\if.deps.json
+C:\repository\Study\if\if\bin\Debug\net6.0\if.runtimeconfig.json
+C:\repository\Study\if\if\bin\Debug\net6.0\if.dll
+C:\repository\Study\if\if\bin\Debug\net6.0\if.pdb
+C:\repository\Study\if\if\obj\Debug\net6.0\if.csproj.AssemblyReference.cache
+C:\repository\Study\if\if\obj\Debug\net6.0\if.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Study\if\if\obj\Debug\net6.0\if.AssemblyInfoInputs.cache
+C:\repository\Study\if\if\obj\Debug\net6.0\if.AssemblyInfo.cs
+C:\repository\Study\if\if\obj\Debug\net6.0\if.csproj.CoreCompileInputs.cache
+C:\repository\Study\if\if\obj\Debug\net6.0\if.dll
+C:\repository\Study\if\if\obj\Debug\net6.0\refint\if.dll
+C:\repository\Study\if\if\obj\Debug\net6.0\if.pdb
+C:\repository\Study\if\if\obj\Debug\net6.0\if.genruntimeconfig.cache
+C:\repository\Study\if\if\obj\Debug\net6.0\ref\if.dll
