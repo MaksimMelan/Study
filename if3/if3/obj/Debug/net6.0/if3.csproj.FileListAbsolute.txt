@@ -1,0 +1,15 @@
+C:\repository\Study\if3\if3\bin\Debug\net6.0\if3.exe
+C:\repository\Study\if3\if3\bin\Debug\net6.0\if3.deps.json
+C:\repository\Study\if3\if3\bin\Debug\net6.0\if3.runtimeconfig.json
+C:\repository\Study\if3\if3\bin\Debug\net6.0\if3.dll
+C:\repository\Study\if3\if3\bin\Debug\net6.0\if3.pdb
+C:\repository\Study\if3\if3\obj\Debug\net6.0\if3.csproj.AssemblyReference.cache
+C:\repository\Study\if3\if3\obj\Debug\net6.0\if3.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Study\if3\if3\obj\Debug\net6.0\if3.AssemblyInfoInputs.cache
+C:\repository\Study\if3\if3\obj\Debug\net6.0\if3.AssemblyInfo.cs
+C:\repository\Study\if3\if3\obj\Debug\net6.0\if3.csproj.CoreCompileInputs.cache
+C:\repository\Study\if3\if3\obj\Debug\net6.0\if3.dll
+C:\repository\Study\if3\if3\obj\Debug\net6.0\refint\if3.dll
+C:\repository\Study\if3\if3\obj\Debug\net6.0\if3.pdb
+C:\repository\Study\if3\if3\obj\Debug\net6.0\if3.genruntimeconfig.cache
+C:\repository\Study\if3\if3\obj\Debug\net6.0\ref\if3.dll
