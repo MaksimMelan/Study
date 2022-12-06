@@ -17,7 +17,7 @@
             money = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine($"ваша сумма: {money}");
 
-            if(money <= 100 || money > 0)
+            if(money <= 100 && money > 0)
             {
                 Console.WriteLine($"Сумма Вашего вклада {money + (money / 100  * 5)} с процентами. 5% составили {money / 100 * 5}! ");
             }
