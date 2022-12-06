@@ -1,0 +1,15 @@
+C:\repository\Study\if4\if4\bin\Debug\net6.0\if4.exe
+C:\repository\Study\if4\if4\bin\Debug\net6.0\if4.deps.json
+C:\repository\Study\if4\if4\bin\Debug\net6.0\if4.runtimeconfig.json
+C:\repository\Study\if4\if4\bin\Debug\net6.0\if4.dll
+C:\repository\Study\if4\if4\bin\Debug\net6.0\if4.pdb
+C:\repository\Study\if4\if4\obj\Debug\net6.0\if4.csproj.AssemblyReference.cache
+C:\repository\Study\if4\if4\obj\Debug\net6.0\if4.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Study\if4\if4\obj\Debug\net6.0\if4.AssemblyInfoInputs.cache
+C:\repository\Study\if4\if4\obj\Debug\net6.0\if4.AssemblyInfo.cs
+C:\repository\Study\if4\if4\obj\Debug\net6.0\if4.csproj.CoreCompileInputs.cache
+C:\repository\Study\if4\if4\obj\Debug\net6.0\if4.dll
+C:\repository\Study\if4\if4\obj\Debug\net6.0\refint\if4.dll
+C:\repository\Study\if4\if4\obj\Debug\net6.0\if4.pdb
+C:\repository\Study\if4\if4\obj\Debug\net6.0\if4.genruntimeconfig.cache
+C:\repository\Study\if4\if4\obj\Debug\net6.0\ref\if4.dll
